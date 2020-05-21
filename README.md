@@ -1,2 +1,2 @@
-# onlinegame
- a browser game using Javascript
+# game
+ a basic website game
